@@ -329,6 +329,16 @@ nav {
     border-radius: 50%;
 }
 
+.terminal-button.close {
+    background: #ff5f56;
+}
+.terminal-button.minimize {
+    background: #ffbd2e;
+}
+.terminal-button.maximize {
+    background: #27c93f;
+}
+
 .terminal-title {
     margin-left: 1rem;
     color: var(--text-color);
